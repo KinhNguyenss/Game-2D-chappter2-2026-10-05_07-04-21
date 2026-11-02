@@ -112,3 +112,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Antigravity & Agent tools
+.aevum/
+.agents/
+.antigravitycli/
+.gemini/
+*.bak
+*.bak.meta
